@@ -8,7 +8,7 @@ public class OnIkiNisan {
         
 
         System.out.println("omer den 2. deneme2");
-        System.out.println("ihsan den 2. deneme3");
+        System.out.println("ihsan den 2. deneme2");
 
 
     }
