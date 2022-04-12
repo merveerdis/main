@@ -6,6 +6,8 @@ public class OnIkiNisan {
 
         System.out.println("Bugünün denemesi - 1");
 
+        System.out.println("kullanici omer");
+
     }
 
 }
