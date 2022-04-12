@@ -10,7 +10,7 @@ public class OnIkiNisan {
         System.out.println("omer den 2. deneme2");
         System.out.println("ihsan den 2. deneme2");
         System.out.println("omer den 3. deneme");
-        System.out.println("ihsan  dan 4.  deneme");
+
     }
 
 }
