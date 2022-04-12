@@ -8,6 +8,8 @@ public class OnIkiNisan {
 
         System.out.println("kullanici omer");
 
+        System.out.println("omer 2. deneme");
+
     }
 
 }
