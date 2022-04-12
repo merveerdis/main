@@ -6,7 +6,6 @@ public class OnIkiNisan {
 
         System.out.println("Bugünün denemesi - 1");
 
-
     }
 
 }
